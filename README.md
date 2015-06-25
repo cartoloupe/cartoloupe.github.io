@@ -1,5 +1,5 @@
 # cartoloupe.github.io
-pages
+[pages](cartoloupe.github.io)
 
 ## how to test a page
 `bundle exec jekyll serve`
