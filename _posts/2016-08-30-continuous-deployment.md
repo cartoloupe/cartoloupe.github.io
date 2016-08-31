@@ -23,6 +23,11 @@ lines and blank lines), of which nearly 8.5 million are written in PHP.
 </details>
 
     - [ ] how to formalize transformations?
+    - why formalize?
+      - because we don't know what we're doing
+        - TDD to the extreme, like a cilice
+        - agile values adopted without adhering to the 12 principles
+      - possible insight: [Tracing Correct Usage of Design Patterns](http://web.cse.ohio-state.edu/~neelam/papers/sea07.pdf)
 
 #### some leads
 - [ ] [studies of TDD](http://biblio.gdinwiddie.com/biblio/StudiesOfTestDrivenDevelopment)
