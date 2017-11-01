@@ -12,4 +12,3 @@ title: reading list
 - [healthcare distribution alliance](https://hda.org/issues/prescription-drug-abuse-and-diversion)
 - [white house paper](https://www.whitehouse.senate.gov/imo/media/doc/EDEA%20-%20One-Pager.pdf)
 - [mckesson](http://www.mckesson.com/about-mckesson/fighting-opioid-abuse/)
-
