@@ -1,5 +1,5 @@
 encoding: "utf-8"
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 sass:
   sass_dir: _sass

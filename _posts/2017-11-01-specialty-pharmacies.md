@@ -11,3 +11,10 @@ title: smart apps and specialty pharmacies
 - [biologics](https://www.biologicsinc.com/patient-access/)
 - [oncology](https://www.specialtypharmacytimes.com/news/independent-oncology-practices-could-lower-health-care-costs?utm_term=Independent%20Oncology%20Practices%20Could%20Lower%20Health%20Care%20Costs&utm_campaign=SPT%20eNews%20-%20Kevzara%20-%2010-16-17&utm_content=email&utm_source=Act-On+Software&utm_medium=email&cm_mmc=Act-On%20Software-_-email-_-Cancer%20Treatment%20Costs%20Vary%20Greatly-_-Independent%20Oncology%20Practices%20Could%20Lower%20Health%20Care%20Costs)
 - [pharma commerce news](http://pharmaceuticalcommerce.com/current-issue/)
+
+### hubs
+- [hubs](http://pharmaceuticalcommerce.com/special-report/finding-the-hub-in-specialty-pharma-services/)
+
+### typespecs
+- [docs](https://hexdocs.pm/elixir/typespecs.html#types-and-their-syntax)
+- [example](https://elixirschool.com/en/lessons/advanced/typespec/)
