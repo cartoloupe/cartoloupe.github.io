@@ -4,3 +4,5 @@ sass:
   sass_dir: _sass
 theme: jekyll-theme-tactile
 title: "links"
+plugins:
+  - jekyll-coffeescript
